@@ -1,0 +1,17 @@
+fourHundredRelay;1;0;0;0;1;
+eightHundredRelay;.85;.15;0;0;1;
+sixteenHundredRelay;.70;.30;0;0;1;
+hundred;1;0;0;0;0;
+twoHundred;.9;.1;0;0;0;
+fourHundred;.75;.25;0;0;0;
+oneHundredTenHurdles;.80;0;0;.2;0;
+threeHundredHurdles;.75;.10;0;.15;0;
+eightHundred;.60;.40;0;0;0;
+sixteenHundred;.3;.7;0;0;0;
+thirtyTwoHundred;.1;.9;0;0;0;
+shotput;0;0;.90;.1;0;
+discus;0;0;.85;.15;0;
+highJump;.60;0;0;.40;0;
+poleVault;.65;0;0;.35;0;
+tripleJump;.70;0;0;.30;0;
+longJump;.85;0;0;.15;0;

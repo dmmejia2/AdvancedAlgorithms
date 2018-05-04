@@ -1,0 +1,4 @@
+Daniel Mejia;90;85;67;46;
+Tom Jones;72;80;50;55;
+Superstar;92;12;28;79;
+Runner;99;24;84;54;
